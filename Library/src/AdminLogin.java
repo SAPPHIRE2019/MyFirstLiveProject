@@ -55,7 +55,7 @@ public class AdminLogin extends JFrame {
 		
 		JLabel lblEnterName = new JLabel("Enter Name:");
 		
-		JLabel lblEnterPassword = new JLabel("Enter Password:");
+		JLabel lblEnterPassword = new JLabel("Enter Password1212:");
 		
 		textField = new JTextField();
 		textField.setColumns(10);
